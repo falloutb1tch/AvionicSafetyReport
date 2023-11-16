@@ -1,4 +1,4 @@
-# Picture here
+![Homelander causing mayhem]([[http://url/to/img.png]
 # The plane, boss, the plane!
 ## Overview
 Our team has been asked to quantify the safety of airplane makes/models in relation to purchasing decisions and further impact on the commpany after that decision is made.
