@@ -13,3 +13,10 @@ Our analysis indicated that whilst Boeing is a solid and safe choice to purchase
 ## Conlusion and Next Steps
 After exploring, preparing, cleaning and analyzing the given avionics data, our team feels very comfortable recommending Boeing as a favorable purchasing option. Furthermore, we are very certain that purchasing an airplane from Beech is advised under absolutely no circumstances. Finally, expanding our avionics business to Alaska would be a mistake at this time.
 ## Repo Structure
+```
+├── data
+├── images
+├── README.md
+├── .pdf
+└── Final.ipynb
+```
