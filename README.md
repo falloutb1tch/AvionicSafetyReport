@@ -17,6 +17,6 @@ After exploring, preparing, cleaning and analyzing the given avionics data, our 
 ├── data
 ├── images
 ├── README.md
-├── .pdf
+├── Avionics Safety Report.pptx
 └── Final.ipynb
 ```
