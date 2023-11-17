@@ -12,10 +12,8 @@ Our team went through the data and ensured that it met our standards. As an exam
 Our analysis indicated that whilst Boeing is a solid and safe choice to purchase a plane from, Beech is absolutely not. As a further recommendation, Alaska should be avoided when considering aviary paths for business purposes.
 ## Conlusion and Next Steps
 After exploring, preparing, cleaning and analyzing the given avionics data, our team feels very comfortable recommending Boeing as a favorable purchasing option. Furthermore, we are very certain that purchasing an airplane from Beech is advised under absolutely no circumstances. Finally, expanding our avionics business to Alaska would be a mistake at this time.
-## Viz Links
-https://public.tableau.com/app/profile/jay.iraj/viz/AccidentswithFatalities/Sheet1?publish=yes
-https://public.tableau.com/app/profile/rigat.nirayo/viz/AirplaneInjuryRating/Sheet1
-https://public.tableau.com/app/profile/jay.iraj/viz/AccidentsbyUSStates/Sheet1?publish=yes
+## Viz Dashboard Link
+https://public.tableau.com/app/profile/jay.iraj/viz/AvionicsSafetyReportDashboard/Dashboard1?publish=yes
 ## Repo Structure
 ```
 ├── data
