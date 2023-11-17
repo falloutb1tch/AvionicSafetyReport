@@ -15,6 +15,7 @@ After exploring, preparing, cleaning and analyzing the given avionics data, our 
 ## Viz Links
 https://public.tableau.com/app/profile/jay.iraj/viz/AccidentswithFatalities/Sheet1?publish=yes
 https://public.tableau.com/app/profile/rigat.nirayo/viz/AirplaneInjuryRating/Sheet1
+https://public.tableau.com/app/profile/jay.iraj/viz/AccidentsbyUSStates/Sheet1?publish=yes
 ## Repo Structure
 ```
 ├── data
